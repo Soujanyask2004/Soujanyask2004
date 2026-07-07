@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Soujanya
 
-<!--
-**Soujanyask2004/Soujanyask2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Java
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- AI & Machine Learning
+
+## 🚀 Goals
+- Crack Product-Based and Product Based Company Placements
+- Build Real-World Projects
+- Contribute to Open Source
+
+⭐ Thanks for visiting my profile!
